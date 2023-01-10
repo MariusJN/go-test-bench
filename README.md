@@ -1,4 +1,5 @@
 # Go Test Bench
+#Some test
 
 [![CI](https://github.com/Contrast-Security-OSS/go-test-bench/workflows/CI/badge.svg)](https://github.com/Contrast-Security-OSS/go-test-bench/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Contrast-Security-OSS/go-test-bench)](https://goreportcard.com/report/github.com/Contrast-Security-OSS/go-test-bench)
